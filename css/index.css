@@ -1,0 +1,125 @@
+body {
+    background-color: #ffffff;
+    color: #434455;
+    font-family: "Roboto", sans-serif;
+  }
+  
+  .logo {
+    color: #4d5ae5;
+    font-family: "Raleway", sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+  }
+  
+  .header-logo {
+    color: #2e2f42;
+  }
+  
+  .link-nav,
+  .address-link {
+    color: #2e2f42;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+  }
+  
+  .link-nav:hover,
+  .link-nav:focus,
+  .address-link:hover,
+  .address-link:focus {
+    color: #404bbf;
+  }
+  
+  .header-address {
+    font-style: normal;
+  }
+  
+  .address-link {
+    color: #434455;
+  }
+  
+  .section-order {
+    background-color: #2e2f42;
+  }
+  
+  .order-button {
+    background-color: #4d5ae5;
+    color: #fff;
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    cursor: pointer;
+    line-height: 24px;
+    letter-spacing: 0.04em;
+  }
+  
+  .section-heading {
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #ffffff;
+  }
+  
+  .order-button:hover,
+  .order-button:focus {
+    background-color: #404bbf;
+  }
+  
+  .section-stratedy-title,
+  .section-our-team-title,
+  .section-our-portfolio-title {
+    color: #2e2f42;
+    font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    text-align: center;
+  }
+  
+  .list-el {
+    background-color: #ffffff;
+  }
+  
+  .list-title {
+    color: #2e2f42;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+  }
+  
+  .list-info {
+    color: #434455;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+  }
+  
+  .section-our-team {
+    background-color: #f4f4fd;
+    line-height: 1.11;
+  }
+  
+  .section-our-team-title {
+    text-align: center;
+  }
+  
+  .page-footer {
+    background-color: #2e2f42;
+    color: #f4f4fd;
+  }
+  
+  .footer-logo {
+    color: #f4f4fd;
+  }
+  
+  .footer-text {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+  }
