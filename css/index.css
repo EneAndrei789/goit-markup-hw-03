@@ -7,10 +7,16 @@ body {
   .page-header {
     border-bottom: 1px solid #e7e9fc;   
   }
+
+  .header-div-supp {
+    width: 1158px;
+    padding: 0 15px;
+  }
   
   .header-div {
     display: flex;
   }
+
 
   .logo {
     color: #4d5ae5;
@@ -24,6 +30,11 @@ body {
   
   .header-logo {
     color: #2e2f42;
+  }
+
+  .nav-bar {
+    display: flex;
+    align-items: center;
   }
   
   .link-nav,
