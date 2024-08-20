@@ -102,6 +102,7 @@ body {
     letter-spacing: 0.02em;
     text-transform: capitalize;
     text-align: center;
+    margin-bottom: 72px;
   }
   
   .list-el {
@@ -134,6 +135,10 @@ body {
   
   .section-our-team-title {
     text-align: center;
+  }
+
+  .section-four {
+    padding-top: 120px;
   }
 
   .image-section-four {
