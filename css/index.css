@@ -44,6 +44,10 @@ body {
     display: flex;
     gap: 40px;
   }
+
+  .link-nav {
+    padding: 24px 0;
+  }
   
   .link-nav,
   .address-link {
@@ -52,6 +56,12 @@ body {
     font-weight: 500;
     line-height: 24px;
     letter-spacing: 0.02em;
+    padding: 24px 0;
+  }
+
+  .address-link {
+    display: flex;
+    gap: 40px;
   }
   
   .link-nav:hover,
