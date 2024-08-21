@@ -33,6 +33,11 @@ body {
   .header-logo {
     color: #2e2f42;
   }
+
+  .nav-bar {
+    display: flex;
+    align-items: center;
+  }
   
   .link-nav,
   .address-link {
