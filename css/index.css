@@ -123,6 +123,19 @@ body {
     padding: 120px 0;
   }
 
+  .list-second-section {
+    display: flex;
+    gap: 24px;
+  }
+
+  .li-second-section {
+    margin-right: 24px;
+  }
+
+  .last-li {
+    margin-right: 0
+  }
+
   .visually-hidden {
     position: absolute;
     width: 1px;
