@@ -132,6 +132,7 @@ body {
 
   .li-second-section {
     margin-right: 24px;
+    width: calc((100% - 72px) / 4);
   }
 
   .last-li {
