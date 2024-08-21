@@ -43,6 +43,7 @@ body {
   .menu-header {
     display: flex;
     gap: 40px;
+    padding: 24px 0;
   }
 
   .link-nav {
@@ -79,8 +80,11 @@ body {
     color: #434455;
   }
   
+  /* 1 section */
+
   .section-order {
     background-color: #2e2f42;
+    padding: 188px 0;
   }
   
   .order-button {
