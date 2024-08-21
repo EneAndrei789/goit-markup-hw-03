@@ -96,6 +96,12 @@ body {
     cursor: pointer;
     line-height: 24px;
     letter-spacing: 0.04em;
+    display: block;
+    min-width: 169px;
+    height: 56px;
+    background-color: #4d5ae5;
+    border-radius: 4px;
+    cursor: pointer;
   }
   
   .section-heading {
