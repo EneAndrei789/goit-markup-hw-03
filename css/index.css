@@ -28,6 +28,7 @@ body {
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
+    margin-right: 76px;
   }
   
   .header-logo {
@@ -37,6 +38,11 @@ body {
   .nav-bar {
     display: flex;
     align-items: center;
+  }
+
+  .menu-header {
+    display: flex;
+    gap: 40px;
   }
   
   .link-nav,
