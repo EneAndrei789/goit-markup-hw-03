@@ -59,7 +59,7 @@ body {
     padding: 24px 0;
   }
 
-  .address-link {
+  .list-address {
     display: flex;
     gap: 40px;
   }
