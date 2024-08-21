@@ -167,6 +167,13 @@ body {
   
   .list-el {
     background-color: #ffffff;
+    width: calc((100% - 72px) / 4);
+    border-radius: 0px 0px 4px 4px;
+  }
+
+  .div-mark {
+    padding: 32px 0;
+
   }
   
   .list-title {
@@ -176,6 +183,8 @@ body {
     line-height: 1.2;
     letter-spacing: 0.02em;
     margin-bottom: 8px;
+    text-align: center;
+    margin-bottom: 8px;
   }
   
   .list-info {
@@ -183,6 +192,7 @@ body {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
+    text-align: center;
   }
   
 
@@ -195,9 +205,13 @@ body {
   
   .section-our-team-title {
     text-align: center;
+    margin-bottom: 72px;
   }
   
-
+  .list-section-three {
+    display: flex;
+    gap: 24px;
+  }
 
   .page-footer {
     background-color: #2e2f42;
