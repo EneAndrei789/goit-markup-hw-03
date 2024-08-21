@@ -102,6 +102,7 @@ body {
     background-color: #4d5ae5;
     border-radius: 4px;
     cursor: pointer;
+    border: none;
   }
   
   .section-heading {
@@ -110,6 +111,7 @@ body {
     text-align: center;
     letter-spacing: 0.02em;
     color: #ffffff;
+    max-width: 496px;
   }
   
   .order-button:hover,
