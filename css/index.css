@@ -185,9 +185,12 @@ body {
     letter-spacing: 0.02em;
   }
   
+
+  /* sectiune 3 */
   .section-our-team {
     background-color: #f4f4fd;
     line-height: 1.11;
+    padding: 120px 0;
   }
   
   .section-our-team-title {
