@@ -265,6 +265,8 @@ body {
     letter-spacing: 0.03em;
     text-transform: uppercase;
     margin-right: 76px;
+    margin-bottom: 16px;
+    display: inline-block
   }
   
   .footer-logo {
