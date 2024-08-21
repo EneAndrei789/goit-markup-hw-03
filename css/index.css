@@ -136,6 +136,10 @@ body {
     margin-right: 0
   }
 
+  .list-section {
+    width: calc((100% - 72px) / 4);
+  }
+
   .visually-hidden {
     position: absolute;
     width: 1px;
@@ -171,6 +175,7 @@ body {
     font-weight: 500;
     line-height: 1.2;
     letter-spacing: 0.02em;
+    margin-bottom: 8px;
   }
   
   .list-info {
