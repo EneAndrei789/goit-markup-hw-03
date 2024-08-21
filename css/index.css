@@ -249,6 +249,19 @@ body {
     padding: 100px 0;
     display: inline-block;
     margin-bottom: 16px;
+    display: inline-block;
+    margin-bottom: 16px;
+  }
+
+  .logo-footer {
+    color: #4d5ae5;
+    font-family: "Raleway", sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    margin-right: 76px;
   }
   
   .footer-logo {
@@ -259,6 +272,7 @@ body {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
+    max-width: 264px;
   }
 
 
